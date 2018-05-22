@@ -1,0 +1,10 @@
+History.txt
+
+Projet MAKI - Licence Pro MECSE 2018.
+
+Cours LabVIEW 18/05/2018:
+ Utilisation d'une architecture producteur consommateur.
+-Mise en place des block diagrams
+- Gestion de l'erreur
+- Gestion des user event
+- Création FIFO + Init.
