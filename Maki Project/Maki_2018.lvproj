@@ -67,8 +67,6 @@
 			<Item Name="Move motors.vi" Type="VI" URL="../support/Move motors.vi"/>
 		</Item>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
-		<Item Name="XL320_Register_Write.vi" Type="VI" URL="/&lt;instrlib&gt;/Dynamixel XL320 (Drivers instrument)/Public/Motor Operation/XL320_Register_Write.vi"/>
-		<Item Name="XL320_Action.vi" Type="VI" URL="/&lt;instrlib&gt;/Dynamixel XL320 (Drivers instrument)/Public/Motor Operation/XL320_Action.vi"/>
 		<Item Name="Dynamixel XL320.lvlib" Type="Library" URL="/&lt;instrlib&gt;/Dynamixel XL320 (Drivers instrument)/Dynamixel XL320.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
